@@ -65,6 +65,12 @@ while True:
     #  'q' para salir
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
+    """if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+        OR
+    if texto_detectado != None :
+        break
+"""
 
 # ------------------------
 # Liberar recursos
