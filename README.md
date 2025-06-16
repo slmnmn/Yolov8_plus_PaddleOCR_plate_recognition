@@ -8,5 +8,6 @@ pip install opencv-contrib-python
 
 Be aware if you want to train again the model from scrath, You should download YOLOv8 (v11 didn't work to well) 
 
+APPS DOESN'T WORK, THEY ARE ONLY EXAMPLES
 
 PaddleOCR instead of training our own OCR. (Did not see the necesaity to do it)
